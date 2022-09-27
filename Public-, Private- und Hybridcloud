@@ -1,0 +1,9 @@
+Public Cloud
+Die Public Cloud oder öffentliche Cloud ist ein Angebot eines frei zugänglichen Providers, der seine Dienste offen über das Internet für jedermann zugänglich macht. Webmailer-Dienste oder die bekannten Google-Docs sind ebenso Beispiele für Public Cloud Angebote wie die kostenpflichtigen Services eines Microsoft Office 365 oder eines SAP Business by Design.
+
+Private Cloud
+Dem gegenüber stehen Private Cloud Dienste. Aus Gründen von Datenschutz und IT-Sicherheit ziehen es Unternehmen häufig vor, ihre IT-Dienste weiterhin selbst zu betreiben und ausschließlich ihren eigenen Mitarbeitern zugänglich zu machen. Werden diese in einer Weise angeboten, dass der Endnutzer im Unternehmen cloud-typische Mehrwerte nutzen kann, wie z. B. eine skalierbare IT-Infrastruktur oder installations- und wartungsfreie IT-Anwendungen, die über den Webbrowser in Anspruch genommen werden können, dann spricht man von einer Private Cloud. Häufig werden diese Mehrwerte aber in so bezeichneten IT-Infrastrukturen nicht oder nur teilweise erreicht.
+
+Hybrid Clouds
+Hybrid Clouds
+Mit Hybrid Clouds werden Mischformen dieser beiden Ansätze bezeichnet. So laufen bestimmte Services bei öffentlichen Anbietern über das Internet, während datenschutzkritische Anwendungen und Daten im Unternehmen betrieben und verarbeitet werden. Die Herausforderung liegt hier in der Trennung der Geschäftsprozesse in datenschutzkritische und -unkritische Workflows. Voraussetzung ist eine saubere und konsequente Klassifizierung der im Unternehmen vorhandenen und verarbeiteten Daten.
